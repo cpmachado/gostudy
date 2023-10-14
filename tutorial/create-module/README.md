@@ -9,3 +9,4 @@ Parts of tutorial:
 2. Call your code from another module:
     <https://go.dev/doc/tutorial/call-module-code>
 3. Return and handle an error: <https://go.dev/doc/tutorial/handle-errors>
+4. Return a random greeting: <https://go.dev/doc/tutorial/random-greeting>

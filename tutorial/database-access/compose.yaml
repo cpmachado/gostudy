@@ -4,7 +4,7 @@ services:
   db:
     image: mysql
     restart: always
-    environment:
-      MYSQL_ROOT_PASSWORD: example
+    env_file:
+      - .env
     ports:
       - 3306:3306
